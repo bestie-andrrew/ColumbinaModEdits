@@ -4,6 +4,9 @@ To preface: the original mod and all its assets are ***NOT MINE.*** The original
 
 Furthermore, the attached .zip file is purposefully incomplete, as I've opted to allow access to _supplemental update material_ rather than sidestepping the original creator's page. To use my update materials, download the original mod's .zip from the link above and replace applicable files with those from this repository. 
 
+## Regarding Optional Files:
+Optional Files/ColumbinaBodyDiffuse is a slight edit I made to make the white accents on Columbina's outfit slightly pink-toned. Simply replace it in this mod's folder. 
+
 ## Note to the Original Author
 Hello, my friend! 
 
